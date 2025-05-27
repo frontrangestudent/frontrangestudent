@@ -1,9 +1,7 @@
 ## Hi there 👋
 
 <!--
-**frontrangestudent/frontrangestudent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 Front Range Feline Developer
 Just a fluffy, bug-catching tabby who enjoys purr-ogramming on sunny windowsills. When I'm not swatting at cursors, you can find me napping on warm keyboards, optimizing my zoomies, or contributing to the ongoing mystery of the red dot. My favorite frameworks include scratch posts and cardboard boxes. Always on the lookout for new features (treats) and open to pull requests (belly rubs).
